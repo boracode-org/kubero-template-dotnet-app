@@ -1,0 +1,5 @@
+/Users/spiral/projects/patter/tiwali/tiwali-platform/incubation/kubero/samples/App/bin/Release/net7.0/publish/DotNet.Docker
+/Users/spiral/projects/patter/tiwali/tiwali-platform/incubation/kubero/samples/App/bin/Release/net7.0/publish/DotNet.Docker.dll
+/Users/spiral/projects/patter/tiwali/tiwali-platform/incubation/kubero/samples/App/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/Users/spiral/projects/patter/tiwali/tiwali-platform/incubation/kubero/samples/App/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/spiral/projects/patter/tiwali/tiwali-platform/incubation/kubero/samples/App/bin/Release/net7.0/publish/DotNet.Docker.pdb
